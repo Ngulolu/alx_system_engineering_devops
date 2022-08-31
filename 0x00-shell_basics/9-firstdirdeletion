@@ -1,0 +1,2 @@
+#my first dir deletion
+rm -r <dirname>
